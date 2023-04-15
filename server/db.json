@@ -23,295 +23,414 @@
     {
         "id": 4,
         "name": "Big Bend",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 5,
         "name": "Biscayne",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false     
     },
     {
         "id": 6,
         "name": " Bryce Canyon",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false     
     },
     {
         "id": 7,
         "name": "Canyonlands",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false     
     },
     {
         "id": 8,
         "name": "Capitol Reef",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 9,
         "name": "Carlsbad Caverns",
-        "imageURL": ""
-    }, {
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
+    }, 
+    {
         "id": 10,
         "name": "Channel Islands",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 11,
         "name": "Congaree",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 12,
         "name": "Crater Lake",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 13,
         "name": "Cuyahoga Valley",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 14,
         "name": "Death Valley",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 15,
         "name": "Denali",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 16,
         "name": "Dry Tortugas",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 17,
         "name": "Everglades",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 18,
         "name": "Gates of the Artic",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 19,
         "name": "Gateway Arch",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 20,
         "name": "Glacier Bay",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 21,
         "name": "Glacier",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 22,
         "name": "Grand Canyon",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 23,
         "name": "Grand Teton",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 24,
         "name": "Great Basin",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 25,
         "name":  "Great Sand Dunes",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 26,
         "name": "Great Smoky Mountains",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 27,
         "name": "Guadalupe Mountains",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 28,
         "name": "Haleakala",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 29,
         "name": "Hawai’i Volcanoes",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 30,
         "name": "Hot Springs",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 31,
         "name": "Indiana Dunes",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 32,
         "name": "Isle Royale",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 33,
         "name": "Joshua Tree",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 34,
         "name": "Katmai",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 35,
         "name": "Kenai Fjords",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 36,
         "name": "Kings Canyon",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 37,
         "name": "Kobuk Valley",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 38,
         "name": "Lake Clark",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 39,
         "name": "Lassen Volcanic",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 40,
         "name": "Mammoth Cave",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 41,
         "name": "Mesa Verde",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 42,
         "name": "Mount Rainier",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 43,
         "name": "National Park of American Samoa",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 44,
         "name": "New River Gorge",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 45,
         "name": "North Cascades",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 46,
         "name": "Olympic National",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 48,
         "name": "Petrified Forest",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 49,
         "name": "Pinnacles National",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 50,
         "name": "Redwood",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 51,
         "name": "Rocky Mountain",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 52,
         "name": "Saguaro",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 53,
         "name": "Sequoia",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 54,
         "name": "Shenandoah",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 55,
         "name": "Theodore Roosevelt",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 56,
         "name": "Virgin Islands",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 57,
         "name": "Voyageurs",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 58,
         "name": "White Sands",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 59,
         "name": "Wind Cave",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 60,
         "name": "Wrangell-St. Elias",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 61,
         "name": "Yellowstone",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 62,
         "name": "Yosemite",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     },
     {
         "id": 63,
         "name": "Zion",
-        "imageURL": ""
+        "imageURL": "",
+        "notes": "",
+        "visited": false 
     }
 ]
