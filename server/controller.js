@@ -8,7 +8,7 @@ module.exports = {
         let id = req.params.id
         let park = parks.find((p) => p.id === +id)
         passport.push(park)
-        res.status(200).send()
+        res.status(200).send(passport)
     },
     deleteFromPassport: (req, res) => {
         let id = req.params.id
