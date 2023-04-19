@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+#park-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.park-cover-image{
+    width: 220px;
+}

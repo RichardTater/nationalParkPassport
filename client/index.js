@@ -1,9 +1,8 @@
 const parkContainer = document.querySelector('#park-container')
-const form = document.querySelector('form')
 
 const baseURL = `http://localhost:8008`
 
-const getAllParks = () => {
+const getParks = () => {
     axios.get(`${baseURL}/parks`)
         .then((res) => {
             displayParks(res.data)
@@ -21,8 +20,7 @@ const createParkCard = (park) => {
     parkCard.classList.add('park-card')
 
     parkCard.innerHTML = `
-    <img alt='park-image' src=${park.imageURL} class="park-cover-image" onclick="addToPassport(${park.id})"/>
-        <p class="park-name">${park.name}</p>    
+    <img alt='park-image' src=${park.imageURL} class="park-cover-image" onclick="addToPassport(${park.id})"/>   
     `
 
     parkContainer.appendChild(parkCard)
@@ -38,30 +36,19 @@ const displayParks = (arr) => {
 //click function to add to passport array.
 //when clicked option to add notes 
 
+
 const addToPassport = (id) => {
     axios.post(`${baseURL}/passport/${id}`)
     .then((res) => {
-        console.log(res.data)
+        alert('Park was added to Passport!')
     })
     .catch((theseHands) => {
         console.log(theseHands)
     })
 }
 
-// form.addEventListener()
-getAllParks()
+getParks()
 
 
 
-
-
-
-
-
-// single park card. 
-// want picture of park
-// want name of park
-
-{/* <img alt='park-image' src=${park.imageURL} class="park-cover-image"/>
-            <p class="park-name">${park.name}</p> */}
-            
+//<p class="park-name">${park.name}</p>  (can use for names of parks.)
