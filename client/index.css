@@ -16,4 +16,14 @@ header{
     flex-direction: column;
     align-items: center;
 }
-
+body{
+    background-color: #EAE2CB;
+}
+h1{
+    font-size: 6rem;
+    font-family: fantasy;
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
