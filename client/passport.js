@@ -23,7 +23,6 @@ const createParkCard = (park) => {
 
     parkCard.innerHTML = `
     <img alt='park-image' src=${park.imageURL} class="park-cover-image" onclick="deleteFromPassport(${park.id})"/>
-    <label>Notes</label>
     <textarea id="notes-${park.id}" placeholder="Notes and Experiences Here..." rows="5" cols="100">${park.notes}</textarea>
     <button onclick="updateNotes(${park.id})">Save</button>
     `
@@ -42,7 +41,7 @@ const deleteFromPassport = (id) => {
     if(!confirm("Are you sure you want to DELETE this park from your Passport?")){
         return
     }
-    
+
     axios.delete(`${baseURL}/passport/${id}`)
     .then((res) => {
         let elemToDelete = document.querySelector(`#park-${id}`)

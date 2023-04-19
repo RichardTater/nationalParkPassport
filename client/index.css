@@ -11,3 +11,9 @@ header{
 .park-cover-image{
     width: 220px;
 }
+#passport-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

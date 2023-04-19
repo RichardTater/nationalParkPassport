@@ -16,3 +16,6 @@ console.log(parks[index])
 let asdf = parks.findIndex((el) => el.id === rando)
 
 console.log(parks[asdf])
+
+
+//Things for pizaz... change alerts to toast/toaster notifications when adding to passport or submitting notes. Navbar update. Modal for deleting parks from passport. 
