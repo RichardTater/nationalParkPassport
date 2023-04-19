@@ -26,4 +26,19 @@ h1{
     margin-bottom: 0.5rem;
     font-weight: 500;
     line-height: 1.2;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.46);
+    color: #212529;
+}
+.park-card{
+    display: flex;
+    align-items: center;
+}
+.btn{
+    margin: 7px;
+}
+.txt-area{
+    background-color: #212529;
+    color: #FFFFFF;
+    padding: 7px;
+    border-radius: 7px;
 }

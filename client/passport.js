@@ -23,7 +23,7 @@ const createParkCard = (park) => {
 
     parkCard.innerHTML = `
     <img alt='park-image' src=${park.imageURL} class="park-cover-image" onclick="deleteFromPassport(${park.id})"/>
-    <textarea id="notes-${park.id}" placeholder="Notes and Experiences Here..." rows="5" cols="70">${park.notes}</textarea>
+    <textarea id="notes-${park.id}" placeholder="Notes and Experiences Here..." rows="7" cols="70" class="txt-area">${park.notes}</textarea>
     <button onclick="updateNotes(${park.id})" type="button" class="btn btn-dark">Save</button>
     `
     

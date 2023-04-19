@@ -1,0 +1,101 @@
+﻿Week 4 day 2 lab for reference
+Planning
+MVP: 
+* Users can see all NPs 
+* When user can click on picture of NP
+   * New page where user can see list of parks they have visited
+      * User can add a park they have visited from list*
+      * User can delete a park they have visited*
+      * User can add notes*
+      * User can update notes (stretch goals)
+      * User can delete notes (stretch goals)
+
+
+
+
+Analysis of Requirements
+* Softwares/Packages
+   * VSCode for writing actual code
+   * Postman to test endpoints (using local host, start with 10 parks)
+   * Express
+   * Cors
+   * Axios
+   * Node.js 
+   * Nodemon
+   * Figma for wireframes
+   * AWS***(dont have to do this)
+   * Trello***(dont have to do this)
+
+
+
+
+
+
+Design
+Figma for wireframe
+Coolers/Unsplash for color schemes and free pictures
+
+
+* BACK END
+   * Server folder
+      * Index.js
+         * Express
+         * Cors
+         * REST endpoints
+            * GET template
+            * PUT template
+      * Controller.js
+         * Module.exports
+            * GET template function
+            * PUT function to edit template
+      * Db.json
+         * Array of national parks
+            * id
+            * name
+            * image
+
+
+* FRONT END
+   * Client folder
+      * Index.js
+         * Axios endpoint requests and response handling
+      * Index.html
+         * Axios link for server requests
+      * Index.css
+         * Flex
+
+
+Make custom local db.json file of all 63 parks. Id, name, image (db designer)
+Make custom local db.json file for ‘their passport’. Park id, name, park picture, notes  
+
+
+
+
+
+
+Implementation
+* Create a new folder for project
+* Within project, create folders for design
+   * Server 
+      * Index.js
+      * Controller.js
+      * Db.json
+   * Client
+      * Index.html
+      * Index.css
+      * Index.js
+* Initial npm and git
+* Create a gitignore and add node_modules
+* Install npm packages
+
+
+
+
+Testing/Integration
+
+
+
+
+
+
+Maintenance
