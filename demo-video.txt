@@ -1,0 +1,33 @@
+https://youtu.be/Y40ECDNEShk
+
+//Demo Script
+
+Overview: 
+United States National Park Tracker
+Keeping track of the National Parks that you have been to and what stood out to you. 
+Technologies applied to this project. 
+
+Frontend
+HTML
+CSS
+JavaScript
+Flex
+Bootstrap
+Backend
+JavaScript
+Json
+Node
+Express
+Cors
+
+Talk track: 
+I have a goal in my life is to visit all the United States NPs and I wanted a way to track what ones I have been to and what happened so it would remind me of the trip. 
+Show both pages on the app. 
+Add Badlands NP to my passport. 
+Go to Passport
+Add story of “tribute” by tenacious D. because that is probably where it happened. 
+Go back to Home 
+Add 2 more parks that you have been to. 
+Go back to Passport
+Show that you can Update notes to previous parks
+Show that you can Delete park in Passport
